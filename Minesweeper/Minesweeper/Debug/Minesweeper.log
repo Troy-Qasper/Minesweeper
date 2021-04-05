@@ -1,0 +1,7 @@
+﻿  Minesweeper_Implementation.cpp
+C:\Users\troyq\source\repos\Minesweeper\Minesweeper\Minesweeper_Implementation.cpp(437,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Minesweeper_main.cpp
+  Generating Code...
+C:\Users\troyq\source\repos\Minesweeper\Minesweeper\Minesweeper_Implementation.cpp(51): warning C4715: 'minesweeper::wincon': not all control paths return a value
+C:\Users\troyq\source\repos\Minesweeper\Minesweeper\Minesweeper_Implementation.cpp(64): warning C4715: 'minesweeper::losecon': not all control paths return a value
+  Minesweeper.vcxproj -> C:\Users\troyq\source\repos\Minesweeper\Debug\Minesweeper.exe
